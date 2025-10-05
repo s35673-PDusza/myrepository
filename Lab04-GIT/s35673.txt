@@ -1,1 +1,2 @@
-Name: {Przemyslaw Dusza}
+Name: Przemysław Dusza
+University: PJATK
